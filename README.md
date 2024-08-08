@@ -1,4 +1,3 @@
-```markdown
 # OpenForge Project
 
 ## Inspiration
@@ -146,4 +145,3 @@ Balancing openness with the need for a safe and respectful environment can be co
 - **Collaborative Spaces**
   - Meeting rooms
   - Lounge areas for collaboration and relaxation
-```
