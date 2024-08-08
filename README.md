@@ -4,6 +4,8 @@
 
 OpenForge is a hackerspace in Famagusta that serves as a community-driven space for collaboration, creativity, and learning. The structure is heavily inspired by Noisebridge in San Francisco, and OpenForge strives to expand the philosophy and values of it.
 
+You can find more at: https://www.noisebridge.net/wiki/Noisebridge
+
 ## Mission Statement
 
 To provide a space for people to work on projects, learn new skills, and share knowledge without the need for formal classes or membership fees.
