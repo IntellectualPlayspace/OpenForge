@@ -8,6 +8,28 @@ OpenForge is a hackerspace in Famagusta that serves as a community-driven space 
 
 To provide a space for people to work on projects, learn new skills, and share knowledge without the need for formal classes or membership fees.
 
+## OpenForge’s Philosophy
+
+OpenForge is not anarchic in the sense of being lawless or chaotic, but it does embrace principles that align with anarchistic philosophies, particularly in terms of its organizational structure and decision-making processes.
+
+### Decentralized Decision-Making
+- OpenForge operates on a consensus-based decision-making model. Decisions are made collectively by the members, rather than by a centralized authority or leadership. This aligns with anarchistic ideals of decentralized power and direct democracy.
+
+### Radical Inclusivity
+- The hackerspace practices "Radical Inclusivity," welcoming everyone regardless of background, experience, or financial status. This approach reflects a commitment to equality and open access, which are values often associated with anarchistic principles.
+
+### Self-Organization
+- Members are encouraged to take initiative and organize events, projects, and improvements independently. This self-organizing model supports the idea of individuals and groups working autonomously while contributing to the community.
+
+### Do-Ocracy
+- OpenForge follows a "Do-Ocracy" principle, where individuals who are motivated and willing to take action have the freedom to do so. This concept emphasizes personal responsibility and initiative, rather than relying on formal positions of authority.
+
+### Non-Hierarchical Structure
+- The space has a flat organizational structure, with no formal hierarchy or executive roles. Members contribute to the community based on their interests and skills, without a top-down leadership approach.
+
+### Community-Driven Maintenance
+- The maintenance and organization of the space are managed collectively by the community, rather than by paid staff or a central authority. This collective responsibility is a key feature of self-managed spaces.
+
 ## Key Features
 
 ### Open Access
