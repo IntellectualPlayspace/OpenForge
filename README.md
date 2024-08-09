@@ -147,10 +147,15 @@ Balancing openness with the need for a safe and respectful environment can be co
 
 ### Computing and Programming
 - **Computer Stations**
-  - Computers with various software for programming, design, and simulation
+  - Computers with various software for programming, design, and simulation:
+    - VR/AR Station
+    - CAD/FEA/CFD Station
+    - HPC Cluster
+    - Racing Station
 - **Networking Equipment**
   - Routers
   - Network Switches
+  - Access Control
 
 ### General Workshop Equipment
 - **Workbenches**
