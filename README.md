@@ -82,7 +82,7 @@ Maintaining a free and open space relies heavily on donations and volunteer effo
 Ensuring the space is organized and equipment is maintained requires continuous community effort.
 
 ### Inclusivity
-Balancing openness with the need for a safe and respectful environment can be complex.
+Balancing openness with the need for a safe and respectful environment can be complex. This includes codes of conduct, safety training for equipment use, and procedures for handling conflicts.
 
 ## Impact
 
