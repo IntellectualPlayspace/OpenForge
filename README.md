@@ -32,6 +32,10 @@ OpenForge is not anarchic in the sense of being lawless or chaotic, but it does 
 ### Community-Driven Maintenance
 - The maintenance and organization of the space are managed collectively by the community, rather than by paid staff or a central authority. This collective responsibility is a key feature of self-managed spaces.
 
+### True Freedom
+
+OpenForge operates on a model that prioritizes community autonomy and a non-commercial atmosphere, so it does not function as a "billboard" for companies. The space is intentionally designed to be free of corporate influence, and it relies on donations from individuals and occasional grants rather than commercial sponsorships. This approach aligns with OpenForge's principles of radical inclusivity, do-ocracy, and mutual respect, ensuring that the space remains open and accessible to everyone, without the pressure or influence of corporate advertising.
+
 ## Key Features
 
 ### Open Access
